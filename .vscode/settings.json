@@ -1,0 +1,4 @@
+{
+  "json.schemas": [],
+  "eslint.workingDirectories": ["./sanity"] // to remove some stupid error while working with sanity
+}

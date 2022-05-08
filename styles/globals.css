@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  .logo {
+    @apply text-[#4B0082];
+  }
+  input,
+  select {
+    @apply focus:outline-none;
+  }
+}
